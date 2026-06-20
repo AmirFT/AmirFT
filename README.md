@@ -100,6 +100,13 @@ Find parking across the UAE. Angular SSR web app + iOS companion app, real-time 
 
 ---
 
+## 🗂️ Open Source
+
+**[dotnet-httpclient-to-curl-logging](https://github.com/AmirFT/dotnet-httpclient-to-curl-logging)** · C#  
+A lightweight `DelegatingHandler` that logs every `HttpClient` request as a ready-to-paste cURL command — with automatic redaction of passwords and API keys. Useful for debugging and reproducing API calls.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
