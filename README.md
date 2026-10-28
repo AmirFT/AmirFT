@@ -64,15 +64,10 @@ I'm a software engineer at **Studio Nona**, working across the full stack. I car
 
 ## 📌 Featured Projects
 
-### 📊 TripRank — Driving analytics for iOS
+### 📊 TripRank — Driving analytics for iOS & Android
 Turns trips into scores and insights, helping drivers understand and improve their habits.
 
-<a href="https://apps.apple.com/us/app/triprank-speedtracker-gforce/id6770670028?itscg=30200&itsct=apps_box_artwork&mttnsubad=6770670028" style="display: inline-block; width: 60px; height: 60px; overflow: hidden; border-radius: 13px; vertical-align: middle;">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/58/cb/f658cb3e-0cc4-0238-19e4-37a6cf66b665/AppIcon-0-1x_U007epad-0-1-85-220-0.png/540x540bb.jpg" alt="TripRank" style="width: 60px; height: 60px; object-fit: cover;" />
-</a>&nbsp;&nbsp;
-<a href="https://apps.apple.com/us/app/triprank-speedtracker-gforce/id6770670028?itscg=30200&itsct=apps_box_badge&mttnsubad=6770670028">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1781222400" alt="Download on the App Store" style="height: 40px; vertical-align: middle;" />
-</a>
+<a href="https://apps.apple.com/us/app/triprank-speedtracker-gforce/id6770670028?itscg=30200&itsct=apps_box_artwork&mttnsubad=6770670028"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/58/cb/f658cb3e-0cc4-0238-19e4-37a6cf66b665/AppIcon-0-1x_U007epad-0-1-85-220-0.png/540x540bb.jpg" alt="TripRank" width="60" height="60" align="middle" /></a>&nbsp;&nbsp;<a href="https://apps.apple.com/us/app/triprank-speedtracker-gforce/id6770670028?itscg=30200&itsct=apps_box_badge&mttnsubad=6770670028"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1781222400" alt="Download on the App Store" height="40" align="middle" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.am1rft.triprank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60" align="middle" /></a>
 
 ---
 
